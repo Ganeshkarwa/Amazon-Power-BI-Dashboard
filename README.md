@@ -44,7 +44,7 @@ To explore the Amazon Power BI Dashboard:
 
 
 ## Contact
-For any inquiries or further information, please contact Ganesh Karwa via gkarwa03@gmail.com.
+For any inquiries or further information, please contact Ganesh Karwa via gkarwa03@gmail.com
 
 ![image](https://github.com/Ganeshkarwa/Amazon-Power-BI-Dashboard/assets/140792447/398e0928-4218-4437-84d5-f00f63394acd)
 ![image](https://github.com/Ganeshkarwa/Amazon-Power-BI-Dashboard/assets/140792447/4a04780f-af28-4a07-8d4f-a21ecb0050a1)
